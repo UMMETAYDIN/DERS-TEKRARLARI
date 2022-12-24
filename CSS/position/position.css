@@ -1,0 +1,28 @@
+.container{
+    width: 500px;
+    height: 500px;
+    background-color: gray;
+}
+
+
+
+.box1{
+    width: 100px;
+    height: 100px;
+    background-color: hotpink
+    ;
+}
+.box2{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    position: relative;
+    left: 100px;
+    
+}
+.box3{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    
+}
